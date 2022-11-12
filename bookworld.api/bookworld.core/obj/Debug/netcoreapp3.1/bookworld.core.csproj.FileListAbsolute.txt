@@ -1,0 +1,10 @@
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\bin\Debug\netcoreapp3.1\bookworld.core.deps.json
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\bin\Debug\netcoreapp3.1\bookworld.core.dll
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\bin\Debug\netcoreapp3.1\bookworld.core.pdb
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\obj\Debug\netcoreapp3.1\bookworld.core.csproj.AssemblyReference.cache
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\obj\Debug\netcoreapp3.1\bookworld.core.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\obj\Debug\netcoreapp3.1\bookworld.core.AssemblyInfoInputs.cache
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\obj\Debug\netcoreapp3.1\bookworld.core.AssemblyInfo.cs
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\obj\Debug\netcoreapp3.1\bookworld.core.csproj.CoreCompileInputs.cache
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\obj\Debug\netcoreapp3.1\bookworld.core.dll
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.core\obj\Debug\netcoreapp3.1\bookworld.core.pdb

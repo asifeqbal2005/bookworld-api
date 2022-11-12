@@ -1,0 +1,13 @@
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\obj\Debug\netcoreapp3.1\bookworld.Infrastructure.csproj.AssemblyReference.cache
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\obj\Debug\netcoreapp3.1\bookworld.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\obj\Debug\netcoreapp3.1\bookworld.Infrastructure.AssemblyInfoInputs.cache
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\obj\Debug\netcoreapp3.1\bookworld.Infrastructure.AssemblyInfo.cs
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\obj\Debug\netcoreapp3.1\bookworld.Infrastructure.csproj.CoreCompileInputs.cache
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\bin\Debug\netcoreapp3.1\bookworld.Infrastructure.deps.json
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\bin\Debug\netcoreapp3.1\bookworld.Infrastructure.dll
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\bin\Debug\netcoreapp3.1\bookworld.Infrastructure.pdb
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\bin\Debug\netcoreapp3.1\bookworld.core.dll
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\bin\Debug\netcoreapp3.1\bookworld.core.pdb
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\obj\Debug\netcoreapp3.1\bookworld.Infrastructure.csproj.CopyComplete
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\obj\Debug\netcoreapp3.1\bookworld.Infrastructure.dll
+H:\Projects\BooksWorld\bookworld-api\bookworld.api\bookworld.Infrastructure\obj\Debug\netcoreapp3.1\bookworld.Infrastructure.pdb
